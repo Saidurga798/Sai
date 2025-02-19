@@ -1,0 +1,7 @@
+git init
+git origin link
+git add .
+git commit -m "message"
+access (name, email)
+git pull origin master
+git push origin master
